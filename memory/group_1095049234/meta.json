@@ -1,0 +1,14 @@
+{
+  "summaries": [
+    {
+      "id": 1,
+      "timestamp": 1782636891.8960755,
+      "file": "summary_log_0.txt",
+      "offset": 0,
+      "length": 495,
+      "importance": 1.0,
+      "access_count": 0
+    }
+  ],
+  "next_id": 2
+}

@@ -1,0 +1,237 @@
+{
+  "summaries": [
+    {
+      "id": 1,
+      "timestamp": 1782468435.5446343,
+      "file": "summary_1.txt",
+      "importance": 1.0,
+      "access_count": 66
+    },
+    {
+      "id": 2,
+      "timestamp": 1782487807.8057034,
+      "file": "summary_2.txt",
+      "importance": 1.0,
+      "access_count": 38
+    },
+    {
+      "id": 3,
+      "timestamp": 1782521451.2830858,
+      "file": "summary_3.txt",
+      "importance": 1.0,
+      "access_count": 31
+    },
+    {
+      "id": 4,
+      "timestamp": 1782545672.8803167,
+      "file": "summary_4.txt",
+      "importance": 1.0,
+      "access_count": 3
+    },
+    {
+      "id": 5,
+      "timestamp": 1782545672.9012606,
+      "file": "summary_5.txt",
+      "importance": 1.0,
+      "access_count": 0
+    },
+    {
+      "id": 6,
+      "timestamp": 1782545673.074566,
+      "file": "summary_6.txt",
+      "importance": 1.0,
+      "access_count": 0
+    },
+    {
+      "id": 7,
+      "timestamp": 1782547670.6906314,
+      "file": "summary_7.txt",
+      "importance": 1.0,
+      "access_count": 0
+    },
+    {
+      "id": 8,
+      "timestamp": 1782548828.974758,
+      "file": "summary_log_0.txt",
+      "offset": 0,
+      "length": 236,
+      "importance": 1.0,
+      "access_count": 5
+    },
+    {
+      "id": 9,
+      "timestamp": 1782549268.1773958,
+      "file": "summary_log_0.txt",
+      "offset": 240,
+      "length": 302,
+      "importance": 1.0,
+      "access_count": 9
+    },
+    {
+      "id": 10,
+      "timestamp": 1782549577.745463,
+      "file": "summary_log_0.txt",
+      "offset": 545,
+      "length": 189,
+      "importance": 1.0,
+      "access_count": 11
+    },
+    {
+      "id": 11,
+      "timestamp": 1782549957.3765132,
+      "file": "summary_log_0.txt",
+      "offset": 738,
+      "length": 440,
+      "importance": 1.0,
+      "access_count": 59
+    },
+    {
+      "id": 12,
+      "timestamp": 1782550309.7267501,
+      "file": "summary_log_0.txt",
+      "offset": 1182,
+      "length": 353,
+      "importance": 1.0,
+      "access_count": 65
+    },
+    {
+      "id": 13,
+      "timestamp": 1782550543.2216585,
+      "file": "summary_log_0.txt",
+      "offset": 1539,
+      "length": 453,
+      "importance": 1.0,
+      "access_count": 88
+    },
+    {
+      "id": 14,
+      "timestamp": 1782551478.606582,
+      "file": "summary_log_0.txt",
+      "offset": 2329,
+      "length": 360,
+      "importance": 1.0,
+      "access_count": 96
+    },
+    {
+      "id": 15,
+      "timestamp": 1782551854.0714447,
+      "file": "summary_log_0.txt",
+      "offset": 2693,
+      "length": 493,
+      "importance": 1.0,
+      "access_count": 104
+    },
+    {
+      "id": 16,
+      "timestamp": 1782576004.2486436,
+      "file": "summary_log_0.txt",
+      "offset": 3190,
+      "length": 912,
+      "importance": 1.0,
+      "access_count": 91
+    },
+    {
+      "id": 17,
+      "timestamp": 1782636892.9881222,
+      "file": "summary_log_0.txt",
+      "offset": 4107,
+      "length": 745,
+      "importance": 1.0,
+      "access_count": 85
+    },
+    {
+      "id": 18,
+      "timestamp": 1782698006.014878,
+      "file": "summary_log_0.txt",
+      "offset": 4856,
+      "length": 811,
+      "importance": 1.0,
+      "access_count": 64
+    },
+    {
+      "id": 19,
+      "timestamp": 1783064343.554546,
+      "file": "summary_log_0.txt",
+      "offset": 5671,
+      "length": 653,
+      "importance": 1.0,
+      "access_count": 53
+    },
+    {
+      "id": 20,
+      "timestamp": 1783134392.870275,
+      "file": "summary_log_0.txt",
+      "offset": 6328,
+      "length": 1239,
+      "importance": 1.0,
+      "access_count": 49
+    },
+    {
+      "id": 21,
+      "timestamp": 1783202404.7972665,
+      "file": "summary_log_0.txt",
+      "offset": 7571,
+      "length": 1186,
+      "importance": 1.0,
+      "access_count": 16
+    },
+    {
+      "id": 22,
+      "timestamp": 1783683743.4026668,
+      "file": "summary_log_0.txt",
+      "offset": 8764,
+      "length": 552,
+      "importance": 1.0,
+      "access_count": 15
+    },
+    {
+      "id": 23,
+      "timestamp": 1783743476.0219812,
+      "file": "summary_log_0.txt",
+      "offset": 9320,
+      "length": 719,
+      "importance": 1.0,
+      "access_count": 12
+    },
+    {
+      "id": 24,
+      "timestamp": 1783768189.4639337,
+      "file": "summary_log_0.txt",
+      "offset": 10044,
+      "length": 983,
+      "importance": 1.0,
+      "access_count": 7
+    }
+  ],
+  "next_id": 25,
+  "stats": {
+    "messages": 7,
+    "chars": 2457,
+    "last_time": 1783826889.661639,
+    "by_day": {
+      "2026-07-11": {
+        "messages": 5,
+        "chars": 1897,
+        "assistant_chars": 1854
+      },
+      "2026-07-12": {
+        "messages": 2,
+        "chars": 560,
+        "assistant_chars": 510
+      }
+    },
+    "assistant_chars": 2364,
+    "by_hour": {
+      "2026-07-11 23:00": {
+        "messages": 1,
+        "chars": 63,
+        "assistant_chars": 59
+      },
+      "2026-07-12 11:00": {
+        "messages": 2,
+        "chars": 560,
+        "assistant_chars": 510
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "reminders": [
+    {
+      "id": 1,
+      "user_id": "3671232221",
+      "entity_id": "user_3671232221",
+      "content": "提醒我睡觉",
+      "trigger_time": 1782576000,
+      "frequency": "daily",
+      "next_trigger": 1783699200,
+      "active": true
+    },
+    {
+      "id": 2,
+      "user_id": "3671232221",
+      "entity_id": "user_3671232221",
+      "content": "20:00 老爸生日快乐",
+      "trigger_time": 1782657244,
+      "frequency": "once",
+      "next_trigger": 1782657244,
+      "active": false
+    }
+  ],
+  "next_id": 3
+}

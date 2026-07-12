@@ -1,0 +1,12 @@
+{
+  "summaries": [
+    {
+      "id": 1,
+      "timestamp": 1782469281.4556596,
+      "file": "summary_1.txt",
+      "importance": 1.0,
+      "access_count": 11
+    }
+  ],
+  "next_id": 2
+}

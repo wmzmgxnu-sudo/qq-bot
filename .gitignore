@@ -1,0 +1,36 @@
+# ----- Python -----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ----- Virtual env -----
+.venv/
+venv/
+env/
+
+# ----- Secrets（绝不能提交）-----
+.env
+.env.local
+.env.prod
+.env.*.local
+
+# ----- 运行时数据 -----
+data/bot.pid
+data/napcat.pid
+logs/
+*.log
+*.pid
+
+# ----- 编辑器 / 系统 -----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ----- NoneBot -----
+bot.py.bak
+*.egg-info/
+panel/exports/
+
+# ----- 注意：data/private_admins.json、data/reminders.json 是配置，需要保留提交 -----

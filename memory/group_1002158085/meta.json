@@ -1,0 +1,23 @@
+{
+  "summaries": [
+    {
+      "id": 1,
+      "timestamp": 1782636891.3882198,
+      "file": "summary_log_0.txt",
+      "offset": 0,
+      "length": 285,
+      "importance": 1.0,
+      "access_count": 20
+    },
+    {
+      "id": 2,
+      "timestamp": 1783064484.1166716,
+      "file": "summary_log_0.txt",
+      "offset": 289,
+      "length": 515,
+      "importance": 1.0,
+      "access_count": 0
+    }
+  ],
+  "next_id": 3
+}
